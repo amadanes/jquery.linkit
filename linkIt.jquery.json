@@ -7,14 +7,14 @@
         "html",
 		"content"
     ],
-    "version": "0.2.0",
+    "version": "0.2.1",
     "author": {
-        "name": "Brad Traversy",
-        "url": "http://techguywebsolutions.com"
+        "name": "Amos",
+        "url": "https://github.com/amadanes/jquery.linkit/blob/master/Amos.txt"
     },
     "maintainers": [
         {
-            "name": "Brad Traversy",
+            "name": "amos",
             "email": "techguyinfo@gmail.com",
             "url": "http://techguywebsolutions.com"
         }
